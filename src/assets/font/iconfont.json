@@ -1,0 +1,23 @@
+{
+  "id": "2686964",
+  "name": "back-store",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "129236",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e89f",
+      "unicode_decimal": 59551
+    },
+    {
+      "icon_id": "9358724",
+      "name": "lock",
+      "font_class": "lock",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
